@@ -49,9 +49,9 @@ The attributes used in this project are:
 <a id ='Methodology'></a>
 ## Methodology
 
-<center>
+<p align ="center">
     <img src="images/ML_project_structure.png">
-</center>
+</p>
 
 A subset of the ML project structure was followed. This consisted of
 exploring the data to learn about potential patterns that might affect disruption, manipulating the data to a format
